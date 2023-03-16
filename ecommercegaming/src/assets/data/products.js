@@ -1,0 +1,88 @@
+export const arrayProducts = [
+    {
+        id:1,
+        name:'Resident Evil 4 - REMAKE',
+        category:'Games',
+        stock: 5,
+        price: 60 ,
+        img:'https://gorilagames.com/img/Public/1019-producto-resident-evil-4-remake-ps4-4827.jpg',
+        description:'Resident Evil 4: Remake trae de vuelta el survival-horror de Capcom en un desarrollo que conserva la esencia del videojuego original, a la vez que introduce mecánicas de juego actualizadas.',
+        platforms: ['ps5 '],
+    },
+    {
+        id:2,
+        name:'Red Dead',
+        category:'Games',
+        stock: 4,
+        price:35,
+        img:'https://gorilagames.com/img/Public/1019-producto-red-dead-redemption-2-ps4-1383.jpg',
+        description:'Red Dead Redemption 2 es un videojuego de mundo abierto ambientado en el corazón de América en el año 1899 y desarrollado por Rockstar, creadores de GTA V y Red Dead Redemption entre otros premiados títulos de perfil sandbox. La historia de Arthur Morgan, (no Nate Harlow héroe de Red Dead Revolver, ni tampoco John Marston, el protagonista del Redemption original) es una aventura western con una extraordinaria atmósfera y ambientación muy cuidada y centrada en la naturaleza que, además de modo individual de juego, también presenta multijugador centrado en seguir la senda de GTA Online.',
+        platforms: ['ps4 '],
+    },
+    {
+        id:3,
+        name:'Dragon Ball Fighter Z',
+        category:'Games',
+        stock: 3,
+        price: 30 ,
+        img:'https://gorilagames.com/img/Public/1019-producto-fifa-23-ps4-digital-5875.jpg',
+        description:'Dragon Ball Fighter Z es un videojuego de combates desarrollado por Arc System Works, autores de las aclamadas series de lucha Guilty Gear y BlazBlue, basado en la popular licencia manga japonesa con personajes de Akira Toriyama. DBFZ combina la vista clásica 2D con un avanzado diseño de personajes en 3D (2.5D), para plantear mecánicas de combate 3 contra 3. Goku, Majin Boo, Vegeta, Gohan y otros muchos personajes no faltan al combate de Dragon Ball FighterZ en diversos escenarios con ataques a toda velocidad o espectaculares técnicas con Ki.',
+        platforms: ['ps4 '],
+    },
+    {
+        id:4,
+        name:'Fallout 4: Game of The Year Edition (Goty)',
+        category:'Games',
+        stock: 7,
+        price: 35,
+        img:'https://gorilagames.com/img/Public/1019-producto-fallout-4-1351.jpg',
+        description:'Fallout 4 es la cuarta entrega de saga de rol y acción post-apocalíptica en mundo abierto de Bethesda Game Studios, el galardonado creador de Fallout 3 y The Elder Scrolls V: Skyrim. El título es un sandbox de acción y rol con cientos de horas de juego en un mundo devastado por la guerra nuclear, que nos convierte en la única persona con vida en el Refugio 11. Cada segundo es una lucha por la supervivencia y cada decisión es importante, siendo nuestra misión iniciar la reconstrucción del yermo y decidir su futuro.',
+        platforms: ['ps4 '],
+    },
+
+    {
+        id:5,
+        name:'Stree Fighter 6',
+        category:'Games',
+        stock: 6,
+        price: 60,
+        img:'https://gorilagames.com/img/Public/1019-producto-street-fighter-6-ps4-3334.jpg',
+        description:'La legendaria serie de lucha Street Fighter regresa con Street Fighter 6, un videojuego donde vivir una nueva era en la franquicia a través de mecánicas elegantes para expresar tu creatividad, personajes vibrantes y nuevos modos que reimaginarán la experiencia de los juegos de lucha. Desde Capcom se garantiza una propuesta repleta de contenido y más formas de jugar para todos, tanto si eres nuevo en el género como si vienes acompañado la IP desde su primera entrega en 1987.',
+        platforms: ['ps4'],
+    },
+
+    {
+        id:6,
+        name:'Octopath Traveler II',
+        category:'Games',
+        stock: 8,
+        price:50,
+        img:'https://gorilagames.com/img/Public/1019-producto-q-154.jpg',
+        description:'Octopath Traveler es un videojuego de rol desarrollado por Square Enix, en colaboración con Acquire. El juego fue lanzado para Nintendo Switch en julio de 2018, para Microsoft Windows en junio de 2019, para Stadia en abril de 2020 y para Xbox One en marzo de 2021. El videojuego vendió más de 2,5 millones de copias en todo el mundo hasta febrero de 2021 y recibió una recepción crítica "generalmente favorable", siendo el punto de elogio más común los gráficos y el estilo artístico. Una precuela, Octopath Traveler: Champions of the Continent, fue lanzada en 2020 en Japón y será lanzado en Norteamérica y Europa en 2022.',
+        platforms: ['ps5 '],
+    },
+
+    {
+        id:7,
+        name:'Consola ps4',
+        category:'Consolas',
+        stock: 3,
+        price:550,
+        img:'https://gorilagames.com/img/Public/1019-producto-ps4-slim-megapack-13-death-stranding-gof-of-war-gta-1-4447.jpg',
+        description:'Consola ps4 con 3 juegos',
+        platforms: ['ps4'],
+    },
+
+    {
+        id:8,
+        name:'x-box s',
+        category:'Consolas',
+        stock: 2,
+        price:600,
+        img:'https://gorilagames.com/img/Public/1019-producto-xbox-series-s-7041.jpg',
+        description:'Consola x-box s',
+        platforms: ['x-box'], 
+    },
+        
+]
+        
